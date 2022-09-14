@@ -22,12 +22,12 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [] List anything else that you can get done to improve the app functionality!
-* [] Changing the background color
-* [] changing the style of the icon
-* [] styling the ActionBar
-* [] styling notification bar
-* [] adding icon for the app
+* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] Changing the background color
+* [ ] changing the style of the icon
+* [ ] styling the ActionBar
+* [ ] styling notification bar
+* [ ] adding icon for the app
 
 ## Video Walkthrough
 
